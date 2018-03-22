@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace uppgift3
 {
-    static class Program
+    static class Program // Kommentar från Leo
     {
         /// <summary>
         /// The main entry point for the application.
