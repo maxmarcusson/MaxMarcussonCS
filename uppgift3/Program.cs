@@ -38,7 +38,7 @@ namespace uppgift3
             SqlConnection conn = new SqlConnection();
 
             //Sätter medlemsvariabeln ConnectionString till den connection string för den databas där AirBnB data finns
-            conn.ConnectionString = "Data Source=DESKTOP-VRGDF71;Initial Catalog=Cars;Integrated Security=True";
+            conn.ConnectionString = "Data Source=LAPTOP-7AL6OH88\\SQL2017;Initial Catalog=AirBnBStats;Integrated Security=True";
 
             try 
             {

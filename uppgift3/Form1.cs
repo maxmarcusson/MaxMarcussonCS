@@ -19,7 +19,14 @@ namespace uppgift3
         }
 
     
-        
+        /* ADRIANS KOMMENTARER: 
+         * Klasserna fungerar bra med konstuktors, metoder och getter/setters.
+         * Hade gärna sett att Class1 hade döpts till "City" för att underlätta orientering.
+         * I SELECT satsen där du hämtar data så skulle jag föredra att hämta in allt med Select *. Om det ändras eller läggs till i tabellerna så skulle det underlätta. 
+         * Skulle kunna skapa en metod som hämtar looparna för charts istället för att skriva egna kodblock för varje stad för att dra ner på antalet rader kod.
+         * LINQ används inte i alls i koden men det var inte heller ett krav på uppgiften.
+         * Samtliga parametrar som ska vara med för uppgiften finns på plats och fungerar, mina kommentarer är mest förbättrningsförslag.
+        */
 
     private void button1_Click(object sender, EventArgs e)
         {
